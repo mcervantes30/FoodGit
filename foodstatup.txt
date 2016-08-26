@@ -17,8 +17,7 @@ such as fats, proteins, vitamins, or minerals.
   
 </p>
   
-<p> Red Meat
-  <br>
+<p> Red Meat <br>
 </p>
 
 <p> Poultry
